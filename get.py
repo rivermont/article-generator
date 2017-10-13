@@ -12,5 +12,12 @@ date = t.time()
 # Download the articles - not the entire page, just the article content.
 # Save all of the text to a file.
 
+# NYTimes
+# CNN
+# Washington Post
+# The Onion!
+# Fox News
+# Vox
+
 with open('{0}.txt', 'w+') as file:
     pass
