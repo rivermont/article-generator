@@ -1,2 +1,2 @@
-import requests
-import markovify
+# import requests
+# import markovify
