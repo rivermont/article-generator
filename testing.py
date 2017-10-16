@@ -2,8 +2,7 @@ from bs4 import BeautifulSoup
 import markovify
 import requests
 
-link = "https://www.washingtonpost.com/news/acts-of-faith/wp/2017/10/13/trump-violates-core-conservative-" \
-       "values-yet-most-conservatives-still-refuse-to-condemn-him"
+link = "https://www.washingtonpost.com/news/acts-of-faith/wp/2017/10/13/trump-violates-core-conservative-values-yet-most-conservatives-still-refuse-to-condemn-him"
 # Possibly something like:
 # https://www.reddit.com/r/politics/search.rss?q=subreddit%3Apolitics+site%3Awashingtonpost.com&sort=new&t=day
 

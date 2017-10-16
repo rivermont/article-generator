@@ -1,7 +1,7 @@
 all_targets: lint test clean-pyc clean-files
 
 lint:
-	flake8 *.py
+	flake8 --ignore E501 *.py
 
 test:
 	python3 tests.py
